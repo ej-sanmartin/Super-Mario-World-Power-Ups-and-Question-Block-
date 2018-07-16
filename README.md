@@ -4,4 +4,6 @@ Also, had taught myself and implemented flex in CSS in this project for the layo
 
 Hope to add jQuery and CSS animations to spice things up.
 
+[Super Mario World Pixel Art](img/super_mario_world_pixel_art)
+
 View the Super Mario World pixel art on codepen.io, [here](https://codepen.io/ej-sanmartin/pen/oMjmqb)
