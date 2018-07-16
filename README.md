@@ -6,4 +6,4 @@ Hope to add jQuery and CSS animations to spice things up.
 
 ![Super Mario World Pixel Art](img/super_mario_world_pixel_art.png)
 
-View the Super Mario World pixel art on codepen.io, [here](https://codepen.io/ej-sanmartin/pen/oMjmqb)
+View code for the Super Mario World pixel art on codepen.io, [here](https://codepen.io/ej-sanmartin/pen/oMjmqb)
